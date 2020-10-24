@@ -1,8 +1,7 @@
 application:
   name: simple-example-node
-  project: getting-started
   publicly_accessible: true
-  ram: 512MB
+  organization: QoveryCommunity
 routers:
 - name: main
   routes:
